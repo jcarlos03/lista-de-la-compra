@@ -1,0 +1,8 @@
+	
+	li:hover{
+		background-color: grey;
+	}
+	.lista{
+		list-style-type: lower-greek;
+	}
+	
